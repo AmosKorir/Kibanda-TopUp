@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="Kipanda_TopUp.agent" target="11" />
+      <module name="Kipanda_TopUp.common" target="11" />
+      <module name="Kipanda_TopUp.customer" target="11" />
+      <module name="Kipanda_TopUp.data" target="11" />
+      <module name="Kipanda_TopUp.viewmodels" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

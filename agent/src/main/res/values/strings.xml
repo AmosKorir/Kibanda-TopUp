@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">agent</string>
+	<string name="add_Customer" translatable="false">Add Customer</string>
+	<string name="kibanda_agent" translatable="false">Kibanda Agent</string>
+</resources>

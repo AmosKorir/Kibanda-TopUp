@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">Kipanda TopUp</string>
+	<string name="cart" translatable="false">cart</string>
+</resources>
