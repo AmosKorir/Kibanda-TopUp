@@ -15,7 +15,7 @@ The project is architecture in MVVM-modular Clean architure.
 <table>
 <tr>
 <td>
-<img  width="200" height="400" src="archicture.png"/>
+<img  width="280" height="400" src="archicture.png"/>
 </td>
 
 </tr>
